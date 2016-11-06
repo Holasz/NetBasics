@@ -4,3 +4,8 @@ C:\Users\Holasz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Consol
 C:\Users\Holasz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Holasz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\Users\Holasz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\UBBCourse1.csprojResolveAssemblyReference.cache
+C:\Users\holasz\Documents\GitHub\NetBasics\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\holasz\Documents\GitHub\NetBasics\obj\Debug\ConsoleApplication1.exe
+C:\Users\holasz\Documents\GitHub\NetBasics\obj\Debug\ConsoleApplication1.pdb
+C:\Users\holasz\Documents\GitHub\NetBasics\bin\Debug\ConsoleApplication1.exe
+C:\Users\holasz\Documents\GitHub\NetBasics\bin\Debug\ConsoleApplication1.pdb
